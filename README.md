@@ -10,3 +10,5 @@ Includes three repo examples on how to implement a GraphQL wrapper for a Web API
 -   GraphQL + React + Apollo Tutorial: https://www.youtube.com/watch?v=SEMTj8w04Z8
 -   Wrap REST with GraphQL: https://www.prisma.io/blog/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d
 -   Original Post for GraphQL by Facebook Engineering: https://code.fb.com/core-data/graphql-a-data-query-language/
+-   Free GraphQL API's: https://github.com/APIs-guru/graphql-apis
+-   Awesome GraphQL: https://github.com/chentsulin/awesome-graphql
