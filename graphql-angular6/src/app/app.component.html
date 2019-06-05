@@ -1,0 +1,12 @@
+<h1>GraphQL Test</h1>
+
+<div class="pokemon-list">
+  {{ errors }}
+</div>
+
+<div class="single-pokemon">
+  <h4>Change Id</h4>
+  <input type="text" [(ngModel)]="pokemonId" /><button (click)="search()">Update</button>
+  {{ pokemonId }} <br />
+  {{ results | json }}
+</div>
